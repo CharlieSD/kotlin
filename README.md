@@ -15,3 +15,23 @@ En esta sección se muestran los inicio de Kotlin par su uso en consola:
 - Null Safety
 
 Junto con un ejercicio donde se apliquen cada uno de estos ejemplos.
+
+## Sección 2
+
+En esta sección se tomarán en cuenta las operaciones matemáticas
+
+- Operaciones básicas
+- Jerarquia de operaciones
+- Incremento y decremento
+
+## Sección 3
+En esta sección se tomarán en cuenta las operaciones lógicas
+
+- Operaciones relacionales y lógicos
+- Estructura If simple
+- Estructura If else
+- Estructura If esle if
+- If anidado
+- Comparacion de String
+- Estructura When
+- Expresión When
