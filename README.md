@@ -2,7 +2,7 @@
 
 Ejecicios en conosola y móvil
 
-## Udemy Sección 1
+## Udemy Sección 2
 
 En esta sección se muestran los inicio de Kotlin par su uso en consola:
 
@@ -16,7 +16,7 @@ En esta sección se muestran los inicio de Kotlin par su uso en consola:
 
 Junto con un ejercicio donde se apliquen cada uno de estos ejemplos.
 
-## Sección 2
+## Sección 3
 
 En esta sección se tomarán en cuenta las operaciones matemáticas
 
@@ -24,7 +24,7 @@ En esta sección se tomarán en cuenta las operaciones matemáticas
 - Jerarquia de operaciones
 - Incremento y decremento
 
-## Sección 3
+## Sección 4
 En esta sección se tomarán en cuenta las operaciones lógicas
 
 - Operaciones relacionales y lógicos
@@ -35,3 +35,13 @@ En esta sección se tomarán en cuenta las operaciones lógicas
 - Comparacion de String
 - Estructura When
 - Expresión When
+
+## Seccion 5
+Introducción a Bucles básicos en Kotlin
+
+- Ciclo For
+- For anidado
+- Ciclo While
+- Ciclo Do-While
+- Break & continue
+- Ranges

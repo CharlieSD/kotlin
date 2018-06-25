@@ -1,4 +1,4 @@
-package secciontres
+package seccioncuatro
 
 fun main(args: Array<String>) {
     val num1 : Int = 5

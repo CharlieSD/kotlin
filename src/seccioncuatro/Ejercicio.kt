@@ -1,4 +1,4 @@
-package secciontres
+package seccioncuatro
 
 /*
     Crear un programa que solicite ingresar dos números
