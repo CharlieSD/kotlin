@@ -19,7 +19,7 @@ fun main(args: Array<String>) {
         println("Excelente, Felicidades!! tu calificación es $promedio")
     } else if (promedio >= 9) {
         println("Tu resultado es bueno, tu calificación es $promedio")
-    } else if (promedio >= 6 && promedio < 9) {
+    } else if (promedio in 6..8) {
         println("Tu resultado es suficiente, tu calificación es $promedio")
     } else {
         println("Tu resultado es insuficiente, tu calificación es $promedio")
