@@ -1,25 +1,32 @@
-package secciontres
-
-/*
-    Crear un programa que solicite ingresar dos números
-    y dependiendo de si el primer número es MAYOR que
-    el segundo mostrar en consola su suma y diferencia,
-    de otro modo mostrará el producto y la división
-    de dichos números dados por el usuario.
- */
+package secciondos
 
 fun main(args: Array<String>) {
-    println("Ingrese el primer numero")
-    val num1 = readLine()!!.toDouble()
-    println("Ingrese el segundo numero")
-    val num2 = readLine()!!.toDouble()
+    println("********Primer Ejercicio********")
+    println("Programa que calcula el total a pagar de un producto")
+    println("Cuantos productos se compra?")
+    val numProducoto = readLine()!!.toInt()
+    println("Cuanto cuesta el producto")
+    val costoProducto = readLine()!!.toInt()
 
-    if (num1 > num2) {
-        println(num1 + num2)
-        println(num1 - num2)
-    } else {
-        println(num1 * num2)
-        println(num1 / num2)
-    }
+    val pago = numProducoto * costoProducto
 
+    println("Total a pagar: $pago")
+    println()
+
+    println("********Segundo Ejercicio********")
+    println("Programa que realiza operaciones cno 4 números")
+    println("Ingrese el primer número")
+    val num1 = readLine()!!.toInt()
+    println("Ingrese el segundo número")
+    val num2 = readLine()!!.toInt()
+    println("Ingrese el tercero número")
+    val num3 = readLine()!!.toInt()
+    println("Ingrese el cuarto número")
+    val num4 = readLine()!!.toInt()
+
+    val suma = num1 + num2
+    val producto = num3 * num4
+
+    println("La suma es $suma")
+    println("El producto es $producto")
 }
