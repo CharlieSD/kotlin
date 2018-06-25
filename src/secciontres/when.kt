@@ -15,11 +15,13 @@ fun main(args: Array<String>) {
 
     val promedio = 10
 
-    when(promedio) {
-        10 -> println("Excelente, Felicidades!! tu calificación es $promedio")
-        9 -> println("Tu resultado es bueno, tu calificación es $promedio")
-        in 6..8 -> println("Tu resultado es suficiente, tu calificación es $promedio")
-        else -> println("Tu resultado es insuficiente, tu calificación es $promedio")
+    val resultado = when(promedio) {
+        10 -> "Excelente, Felicidades!! tu calificación es $promedio"
+        9 -> "Tu resultado es bueno, tu calificación es $promedio"
+        in 6..8 -> "Tu resultado es suficiente, tu calificación es $promedio"
+        else -> "Tu resultado es insuficiente, tu calificación es $promedio"
     }
+
+    println(resultado)
 
 }
