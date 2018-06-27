@@ -36,7 +36,7 @@ En esta sección se tomarán en cuenta las operaciones lógicas
 - Estructura When
 - Expresión When
 
-## Seccion 5
+## Sección 5
 Introducción a Bucles básicos en Kotlin
 
 - Ciclo For
@@ -45,3 +45,13 @@ Introducción a Bucles básicos en Kotlin
 - Ciclo Do-While
 - Break & continue
 - Ranges
+
+## Sección 6
+En esta sección se verá el uso de estructuras de datos:
+
+- Array
+- Arraylist
+- Hashmap
+- Colección
+- Mutables e inmutables
+- Treemap
