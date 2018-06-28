@@ -55,3 +55,11 @@ En esta sección se verá el uso de estructuras de datos:
 - Colección
 - Mutables e inmutables
 - Treemap
+
+## Sección 7
+Se retomará los conceptos básicos de funciones 
+
+- Funciones
+- Sobrecargar una función
+- InLine Functions
+- Polimorfismo 
